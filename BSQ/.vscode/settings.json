@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "point.h": "c",
+        "stdlib.h": "c",
+        "map.h": "c"
+    }
+}
